@@ -80,6 +80,7 @@ def computer_guess(x):
                 print("Computer has lost")
                 print("******************************************************")
                 print("")
+                
                 print("")
                 
                 break
